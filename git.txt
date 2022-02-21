@@ -1,0 +1,25 @@
+GIT
+Source Code Management(SCM)
+install gitscm 
+account in github
+
+Create a folder and open with visual stdio
+create a new repository on the command line in vscode Terminal
+
+echo "# my-first-repo" >> README.md
+###Initialize 
+git init
+
+###add file
+git add .
+
+###commit
+git commit -m "first commit"
+
+###for error
+git config --global user.email "you@example.com"
+git config --global user.name "Your name"
+
+git branch -M main
+git remote add origin https://github.com/rumman2012/my-first-repo.git
+git push -u origin main
