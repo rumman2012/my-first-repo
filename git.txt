@@ -20,6 +20,17 @@ git commit -m "first commit"
 git config --global user.email "you@example.com"
 git config --global user.name "Your name"
 
+###
 git branch -M main
+
+##select address:
 git remote add origin https://github.com/rumman2012/my-first-repo.git
+
+###
 git push -u origin main
+
+
+1###newly added text
+git add .
+git commit -m "first commit"
+git push
