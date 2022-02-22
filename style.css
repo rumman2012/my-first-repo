@@ -30,7 +30,7 @@ section
 {
     width:80%;
 }
-a
+.link-button
 {
     display: inline-block;
     padding: 10px 40px;
@@ -40,4 +40,10 @@ a
     border-radius: 5px;
     color:white;
     font-weight:700;
+}
+.Dream-big
+{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: top right;
 }
