@@ -1,8 +1,0 @@
-Milestone portfolio 1
-remove background from image online
-https://www.remove.bg/
-https://www.photopea.com/
-kono ekta tag er choto ekta part ke jodi style dite hoi then use span
-when we have to style a small part of the text we will use span. This is a iline tag
-Now I want to put text and paragrpah side by side so that I have put text and image inside div but to apply style
-pura jinishtake ekta container er modhe niye jabo. so ai container er modhe ja ace ta side by side kora jabe
