@@ -71,7 +71,22 @@ span
 .baby-div
 {
     width:30%;
-    border: 2px solid black;
     padding: 20px;
     box-shadow:  5px 10px 8px 10px #888888;
+}
+#web-dev-experience
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#baby-dev-experience
+{
+    border-right: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer
+{
+    text-align: center;
 }
