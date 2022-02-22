@@ -10,12 +10,10 @@ span
 {
     color: orange;
 }
-section
-{
-    display: flex;
-}
+
 .top-banner
 {
+    display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -46,4 +44,34 @@ section
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: top right;
+}
+.experience
+{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    
+}
+.flexible-container
+{
+    display: flex;
+}
+.experience-header
+{
+    padding-left: 10%;
+}
+.experience-div
+{
+    width:30%;
+    margin-left: 120px;
+    margin-right: 200px;
+    padding: 20px;
+    box-shadow:  5px 10px 8px 10px #888888;
+}
+.baby-div
+{
+    width:30%;
+    border: 2px solid black;
+    padding: 20px;
+    box-shadow:  5px 10px 8px 10px #888888;
 }
